@@ -18,4 +18,4 @@ Este proyecto es un clon de la interfaz de incicio de Pinterest, creado purament
 Regina Lozada Salinas: [Facebook](https://facebook.com/regina.lozadasalinas)
 
 
-Este readme fue creado durante el bootcampo de [Tecnochicas] (https://tecnolochicas.mx )
+Este readme fue creado durante el bootcampo de [Tecnochicas](https://tecnolochicas.mx )
